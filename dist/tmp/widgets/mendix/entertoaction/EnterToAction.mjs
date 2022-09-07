@@ -1,0 +1,1 @@
+import{createElement as e}from"react";function t(t){let{sampleText:l}=t;return e("div",{className:"widget-hello-world"},"Hello TESTEST ",l)}function l(l){let{sampleText:r}=l;return e(t,{sampleText:r})}export{l as EnterToAction};

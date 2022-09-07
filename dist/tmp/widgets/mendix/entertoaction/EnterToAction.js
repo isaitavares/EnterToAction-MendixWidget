@@ -1,0 +1,1 @@
+define(["exports","react"],(function(e,t){"use strict";function l(e){let{sampleText:l}=e;return t.createElement("div",{className:"widget-hello-world"},"Hello TESTEST ",l)}e.EnterToAction=function(e){let{sampleText:n}=e;return t.createElement(l,{sampleText:n})},Object.defineProperty(e,"__esModule",{value:!0})}));
